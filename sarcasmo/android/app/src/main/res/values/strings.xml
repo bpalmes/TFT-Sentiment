@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">sarcasmo</string>
+    <string name="accessibility_service_description">Descripción de tu servicio de accesibilidad</string>
+</resources>
